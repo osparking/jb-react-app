@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>개발자 프로필</h1>
-      <Profile />
+      <Profile name="이재강"/>
     </div>
   );
 }
