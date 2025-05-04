@@ -1,10 +1,11 @@
 import './App.css';
+import Profile from './Profile';
 
 function App() {
   return (
     <div className="App">
-      <h1>알리는 말</h1>
-      <p>리액트의 세상에 오신 것을 환영합니다.</p>
+      <h1>개발자 프로필</h1>
+      <Profile />
     </div>
   );
 }
